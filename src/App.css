@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.header {
+  min-height: 90dvh;
+  display: grid;
+  grid-template-rows: auto 1fr auto; 
+  margin-bottom: 0;
+}
+
+.container {
+  display: flex;
+  justify-content: center; /* Centra horizontalmente */
+  align-items: flex-start; /* Alinea verticalmente al principio */
+  height: 100vh; /* Ocupa toda la altura de la pantalla */
+  padding-top: 20vh; /* Ajusta el espacio superior según necesidad */
+}
