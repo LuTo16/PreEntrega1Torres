@@ -14,8 +14,8 @@
 
 .container {
   display: flex;
-  justify-content: center; /* Centra horizontalmente */
-  align-items: flex-start; /* Alinea verticalmente al principio */
-  height: 100vh; /* Ocupa toda la altura de la pantalla */
-  padding-top: 20vh; /* Ajusta el espacio superior según necesidad */
+  justify-content: center; 
+  align-items: flex-start; 
+  height: 100vh; 
+  padding-top: 20vh; 
 }
